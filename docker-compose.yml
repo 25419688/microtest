@@ -109,12 +109,12 @@ services:
 #      - rabbitmq
 networks:
   postgres:
-    driver: bridge
+      driver: bridge
   spring:
-    driver: bridge
+      driver: bridge
 
 volumes:
   postgres:
   pgadmin:
- 
+
 

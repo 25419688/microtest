@@ -10,6 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="amigosservices" target="17" />
       <module name="micro" target="17" />
       <module name="MicrosConge" target="17" />
     </bytecodeTargetLevel>
